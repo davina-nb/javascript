@@ -50,5 +50,23 @@ let home;
 if(user=="Harry"){
     home = "gryffindor";
     console.log(home);
-
 }
+
+let number = 86;
+if(number>90){
+    home = "Grade A";
+    console.log(home);
+}
+else if(number>80){
+    home = "Grade B";
+    console.log(home);
+}
+else if(number>70){
+    home = "Grade C";
+    console.log(home);
+}
+else{
+    home="Fail";
+    console.log(home);
+}
+
