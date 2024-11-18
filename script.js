@@ -70,3 +70,5 @@ else{
     console.log(home);
 }
 
+number>90 ? "Grade A":"Fail";
+
