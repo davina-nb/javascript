@@ -72,3 +72,5 @@ else{
 
 number>90 ? "Grade A":"Fail";
 
+console.log("Harry")
+
